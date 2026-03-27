@@ -1,0 +1,223 @@
+[
+    {
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "title": "Clamping & Work Holding Application",
+      "bold": true,
+      "page": 2,
+      "children": [
+        { 
+          "title": "Mould & Die Clamping",
+          "bold": true,
+          "page": 2,
+          "children": [
+            {
+              "title": "Tapped End Clamp",
+              "page": 3
+            },
+            {
+              "title": "U type Special Mould Clamp",
+              "page": 4
+            },
+            {
+              "title": "Mould Clamps",
+              "page": 5
+            },
+            {
+              "title": "Mould Clamp with Heavy Support Bolt",
+              "page": 6
+            },
+            {
+              "title": "Forged Mould Clamp",
+              "page": 7
+            }
+
+          ]
+        },
+        {
+          "title": "Machining & Press Tool Clamping",
+          "bold": true,
+          "page": 2,
+          "children": [
+            {
+              "title": "Strap Clamp",
+              "page": 8
+            },
+            {
+              "title": "Stepped Strap Clamp",
+              "page": 9
+            },
+            {
+              "title": "Universal Strap Clamp",
+              "page": 10
+            },
+            {
+              "title": "U-Clamp",
+              "page": 11
+            },
+            {
+              "title": "Heavy Duty Special Long Clamp",
+              "page": 12
+            },
+            {
+              "title": "Pinch Clamps - Low Height / Heavy Duty",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Power Clamping",
+          "bold": true,
+          "page": 2,
+          "children": [
+            {
+              "title": "Pneumatic Swing Clamp with Threaded Body Model – Right / Left",
+              "page": 16
+            },
+            {
+              "title": "Pneumatic Swing Clamp with Lower Flange Version – Right / Left",
+              "page": 17
+            },
+            {
+              "title": "Pneumatic Swing Clamps with Upper Flange – Right / Left",
+              "page": 18
+            },
+            {
+              "title": "Pneumatic Swing Clamps with Block Version – Right / Left",
+              "page": 19
+            },
+            {
+              "title": "Hydraulic Swing Clamps with Threaded Body design (59-400Kg) – Right / Left",
+              "page": 20
+            },
+            {
+              "title": "Hydraulic Swing Clamps with Lower Flange Version (59-600Kg) – Right / Left",
+              "page": 21
+            },
+            {
+              "title": "Hydraulic Swing Clamps with Threaded Body Model (495-1600Kg) – Right / Left",
+              "page": 22
+            },
+            {
+              "title": "Hydraulic Swing Clamps with Lower Flange Version (495-1600Kg) – Right / Left",
+              "page": 23
+            },
+            {
+              "title": "Quick Clamping",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "title": "Clamping Accessories",
+          "bold": true,
+          "page": 2,
+          "children": [
+            {
+              "title": "T-Bolt & T-Nut",
+              "page": 25
+            },
+            {
+              "title": "Clamping Studs, Mould Stud & Hexagonal Studs",
+              "page": 27
+            },
+            {
+              "title": "Washers - Spherical, Plain & C-Type Washer",
+              "page": 29
+            },
+            {
+              "title": "Nuts - Flanged, Extension, Extra Long Extension Nut",
+              "page": 31
+            },
+            {
+              "title": "Leveling Jacks with height blocks & Screw Jack",
+              "page": 32
+            },
+            {
+              "title": "Step Blocks with Heavy Duty & Adjustable Support Plate",
+              "page": 34
+            },
+            {
+              "title": "C/G Clamp",
+              "page": 35
+            }
+          ]
+        },
+        {
+          "title": "Toggle Clamping",
+          "page": 2
+        },
+        {
+          "title": "Work Holding Applications",
+          "page": 36
+        }
+      ]
+    },
+    {
+       "title": "Standard Parts for Press Tool & Moulds",
+      "bold": true,
+      "page": 42,
+      "children":[
+        {
+          "title": "Standard Parts for Press Tool",
+            "bold": true,
+            "page": 41,
+            "children":[
+                {
+                  "title":"Dies set",
+                  "page":42
+                },
+                {
+                  "title":"Punches and Dies button",
+                  "page":43
+                },
+                {
+                  "title":"Guiding Component",
+                  "page":44
+                },
+                {
+                  "title":"Springs",
+                  "page":45
+                },
+                {
+                  "title":"Peripheral components",
+                  "page":50
+                }
+              ]
+        },
+        {
+          "title": "Standard Parts for Press Tool & Moulds",
+              "bold": true,
+              "page": 41,
+               "children":[
+                {
+                  "title":"Mould alignment accessories",
+                  "page":41
+                },
+                {
+                  "title":"Ejection Accessories",
+                  "page":41
+                },
+                {
+                  "title":"Three Plate Mould accessories",
+                  "page":41
+                },
+                {
+                  "title":"Other accessories",
+                  "page":41
+                }
+              ]
+        }
+      ]
+    },
+    {
+       "title": "Smart Press Shop Solutions",
+      "page": 1
+    },
+    {
+       "title": "CNC Turning & Milling Accessories",
+      "page": 51
+    }
+  ]
