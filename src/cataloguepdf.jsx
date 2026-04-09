@@ -88,7 +88,7 @@ const Cataloguepdf = () => {
                     </button>
                 </div>
 
-                {/* <Home />
+                <Home />
                 <About />
                  <Productcategory />
                 <TappedEndClamp />
@@ -139,10 +139,10 @@ const Cataloguepdf = () => {
                 <ServicesatYourDoorstep />
                 <Peripheralcomponents /> 
                 <Cnc/>
-                <Cnc2/>     */}
+                <Cnc2/>    
 
 
-                <MouldAlignmentAccessories/>
+                {/* <MouldAlignmentAccessories/> */}
                 {/* <ThreePlateMouldAccessories /> */}
                 {/* <LiftingEyeBolts /> */}
                 {/* <EjectionAccessories/> */}

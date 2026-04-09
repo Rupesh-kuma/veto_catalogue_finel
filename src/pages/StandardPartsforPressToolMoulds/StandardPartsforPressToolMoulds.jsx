@@ -103,7 +103,7 @@ const StandardPartsforPressToolMoulds = () => {
                                 <ul className="catalogsrup my-0 ps-0">
                                     {/* A */}
                                     <li>
-                                        <a href="https://veto-india.com/wp-content/uploads/2026/03/MouldAlignmentAccessories.pdf" className="catalog-item py-1 mb-1">
+                                        <a href="https://veto-india.com/wp-content/uploads/2026/04/mould-alignment-accessories.pdf" className="catalog-item py-1 mb-1">
                                             <div className="catalog-left">
                                                 <span className="catalog-letter catalog-letterrr">A</span>
                                                 <img src="../images/Mould-alignmentaccessories.webp" alt="Home" className="icon iconss mt-0" />
