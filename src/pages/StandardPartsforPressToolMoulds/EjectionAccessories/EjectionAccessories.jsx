@@ -104,7 +104,7 @@ const EjectionAccessories = () => {
         {/* Ejector Springs, Die Springs */}
         {/* Straight Ejector Pins  */}
 
-        <StraightEjectorPins_H/>
+        {/* <StraightEjectorPins_H/>
         <StraightEjectorPins_H2/>
         <StraightEjectorPins_T3/>
         <StraightEjectorPins_T4/>
@@ -114,28 +114,28 @@ const EjectionAccessories = () => {
         <StraightEjectorPins_H22/>
         <StraightEjectorPins_H23/>
         <StraightEjectorPins_H24/>
-        <StraightEjectorPins_H25/>
+        <StraightEjectorPins_H25/> */}
         
 
         {/* Step Ejctors */}
 
-        <StepEjctors/>
+        {/* <StepEjctors/> */}
 
         {/* Sleeve Pins */}
 
-        <SleevePins/>
+        {/* <SleevePins/>
         <SleevePins42/>
-        <SleevePins43/>
+        <SleevePins43/> */}
 
         {/* Blade Pin */}
 
-        <BladeEjectorPinDIN/>
+        {/* <BladeEjectorPinDIN/> */}
 
         {/* Air Ejector Pin */}
 
         <AirEjectorPin/>
-        <AirEjectorPin63/>
-        <AirVentVE71/>
+        {/* <AirEjectorPin63/> */}
+        {/* <AirVentVE71/> */}
 
         {/* Dowel Pins */}
         {/* <PlateAccelerator/> */}

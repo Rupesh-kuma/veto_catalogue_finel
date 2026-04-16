@@ -12,12 +12,12 @@ const AirEjectorPin = () => {
                 <div className="container">
                     {/* Product 1 */}
                     <div className="product-block">
-                        <div className="section-title">Air Ejector Pin (VE6.1)</div>
+                        <div className="section-title">Air Ejector Pin (VAEP)</div>
                         <div className="row mt-2 g-1">
                             <div className="col-5">
                                 <img
                                     src="../images/AirEjectorPin61.webp"
-                                    alt="Straight Ejector Pin - Type A DIN 1530 (VE1.1 - T)"
+                                    alt="Straight Ejector Pin - Type A DIN 1530 (VAEP1.1 - T)"
                                     className="img-fluid product-image mb-0 w-100"
                                 // style={{ maxWidth: "100%", minHeight: "277px" }}
                                 />
@@ -32,8 +32,8 @@ const AirEjectorPin = () => {
                                 />
                             </div>
                             <div className="col-2">
-                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VE6.1</p>
-                                <p className="mb-0" style={{ fontSize: "13px" }}>Air Ejector Pin (VE6.1)</p>
+                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VAEP</p>
+                                <p className="mb-0" style={{ fontSize: "13px" }}>Air Ejector Pin (VAEP)</p>
                                 <p className="mb-0" style={{ fontSize: "13px" }}>Raw Material: SUS - 420</p>
                                 <p style={{ fontSize: "13px" }} className="mb-0">Hardness: 47-52 HRC</p>
                             </div>
@@ -55,7 +55,7 @@ const AirEjectorPin = () => {
                                     </div>
                                     <div className="table-body">
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 001</span>
+                                            <span className="cell">VAEP - 8.24</span>
                                             <span className="cell">8</span>
                                             <span className="cell">6.6</span>
                                             <span className="cell rowspan" data-rows={2}>6</span>
@@ -64,13 +64,13 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 002</span>
+                                            <span className="cell">VAEP - 10.24</span>
                                             <span className="cell">10</span>
                                             <span className="cell">7.5</span>
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 003</span>
+                                            <span className="cell">VAEP - 12.34</span>
                                             <span className="cell">12</span>
                                             <span className="cell">9.7</span>
                                             <span className="cell rowspan" data-rows={2}>8</span>
@@ -79,7 +79,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 004</span>
+                                            <span className="cell">VAEP - 16.38</span>
                                             <span className="cell">16</span>
                                             <span className="cell">13</span>
                                             <span className="cell">38</span>
@@ -87,7 +87,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 005</span>
+                                            <span className="cell">VAEP - 18.46</span>
                                             <span className="cell">18</span>
                                             <span className="cell">14.9</span>
                                             <span className="cell rowspan" data-rows={3}>12</span>
@@ -96,7 +96,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 006</span>
+                                            <span className="cell">VAEP - 20.50</span>
                                             <span className="cell">20</span>
                                             <span className="cell">16</span>
                                             <span className="cell rowspan" data-rows={2}>50</span>
@@ -104,7 +104,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.1/ 007</span>
+                                            <span className="cell">VAEP - 25.50</span>
                                             <span className="cell">25</span>
                                             <span className="cell">20</span>
 
@@ -114,21 +114,20 @@ const AirEjectorPin = () => {
                             </div>
                         </div>
                         <p className="ordering-note" style={{ fontSize: "14px" }}>
-                            <strong>Ordering Example: Code - Quantity |   VE6.1/007- 8 Pcs</strong><br />
+                            <strong>Ordering Example: Code - Quantity |   VAEP6.1/007- 8 Pcs</strong><br />
                             <strong>● Note:</strong> Customised Sizes & DLC coated pins are available on request
                         </p>
 
                     </div>
                     {/* product 2 */}
-                    <div className="product-block">
-                        <div className="section-title">Air Ejector Pin (VE6.2)</div>
+                    {/* <div className="product-block">
+                        <div className="section-title">Air Ejector Pin (VAEP6.2)</div>
                         <div className="row mt-2 g-1">
                             <div className="col-5">
                                 <img
                                     src="../images/AirEjectorPin62.webp"
-                                    alt="Straight Ejector Pin - Type A DIN 1530 (VE1.1 - T)"
+                                    alt="Straight Ejector Pin - Type A DIN 1530 (VAEP1.1 - T)"
                                     className="img-fluid product-image mb-0 w-100"
-                                // style={{ maxWidth: "100%", minHeight: "277px" }}
                                 />
                             </div>
 
@@ -137,12 +136,11 @@ const AirEjectorPin = () => {
                                     src="../images/AirEjectorPin62_second.webp"
                                     alt="StepEjctors_second"
                                     className="img-fluid product-image mb-0 w-100"
-                                // style={{ maxWidth: "100%", minHeight: "277px" }}
                                 />
                             </div>
                             <div className="col-2">
-                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VE6.2</p>
-                                <p className="mb-0" style={{ fontSize: "13px" }}>Air Ejector Pin (VE6.2)</p>
+                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VAEP6.2</p>
+                                <p className="mb-0" style={{ fontSize: "13px" }}>Air Ejector Pin (VAEP6.2)</p>
                                 <p className="mb-0" style={{ fontSize: "13px" }}>Raw Material: SUS - 420</p>
                                 <p style={{ fontSize: "13px" }} className="mb-0">Hardness: 47-52 HRC</p>
                             </div>
@@ -151,7 +149,6 @@ const AirEjectorPin = () => {
                         <div className="row stp_table_padd mt-3">
                             <div className="col-12">
                                 <div className="table-container mb-0 divs_font_table cell_table_first-5">
-                                    {/* <caption>VB2.3 Data (001-040)</caption> */}
                                     <div className="table-header">
                                         <div className="table-row">
                                             <span className="cell">Code</span>
@@ -163,7 +160,7 @@ const AirEjectorPin = () => {
                                     </div>
                                     <div className="table-body">
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 001</span>
+                                            <span className="cell">VAEP6.2/ 001</span>
                                             <span className="cell">6</span>
                                             <span className="cell">4.5</span>
                                             <span className="cell">4.2</span>
@@ -171,7 +168,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 002</span>
+                                            <span className="cell">VAEP6.2/ 002</span>
                                             <span className="cell">8</span>
                                             <span className="cell">6</span>
                                             <span className="cell">4.5</span>
@@ -179,7 +176,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 003</span>
+                                            <span className="cell">VAEP6.2/ 003</span>
                                             <span className="cell">10</span>
                                             <span className="cell">7.5</span>
                                             <span className="cell">7</span>
@@ -187,7 +184,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 004</span>
+                                            <span className="cell">VAEP6.2/ 004</span>
                                             <span className="cell">12</span>
                                             <span className="cell">9</span>
                                             <span className="cell">7.7</span>
@@ -195,7 +192,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 005</span>
+                                            <span className="cell">VAEP6.2/ 005</span>
                                             <span className="cell">16</span>
                                             <span className="cell">12</span>
                                             <span className="cell">10.3</span>
@@ -203,7 +200,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 006</span>
+                                            <span className="cell">VAEP6.2/ 006</span>
                                             <span className="cell">18</span>
                                             <span className="cell">14</span>
                                             <span className="cell">12</span>
@@ -211,14 +208,14 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 007</span>
+                                            <span className="cell">VAEP6.2/ 007</span>
                                             <span className="cell">20</span>
                                             <span className="cell">15</span>
                                             <span className="cell">12.9</span>
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 008</span>
+                                            <span className="cell">VAEP6.2/ 008</span>
                                             <span className="cell">25</span>
                                             <span className="cell">20</span>
                                             <span className="cell">14.9</span>
@@ -226,7 +223,7 @@ const AirEjectorPin = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE6.2/ 009</span>
+                                            <span className="cell">VAEP6.2/ 009</span>
                                             <span className="cell">30</span>
                                             <span className="cell">25</span>
                                             <span className="cell">18</span>
@@ -237,7 +234,7 @@ const AirEjectorPin = () => {
                             </div>
                         </div>
                         <p className="ordering-note mb-0" style={{ fontSize: "14px" }}>
-                            <strong>Ordering Example: Code - Quantity |   VE6.2/009- 8 Pcs</strong><br />
+                            <strong>Ordering Example: Code - Quantity |   VAEP6.2/009- 8 Pcs</strong><br />
                         </p>
                         <b>Notes:</b>
                         <ul>
@@ -246,7 +243,7 @@ const AirEjectorPin = () => {
                             <li>Use soft metal or polyurethane hammer to fit the pin in the mould.</li>
                         </ul>
 
-                    </div>
+                    </div> */}
                 </div>
                 <span className="page_number">Page 18</span>
                 <p className="product_category">Ejection Accessories (Air Ejector Pin)</p>

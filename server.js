@@ -59,7 +59,11 @@ app.get("/generate-pdf", async (req, res) => {
 
         const target = document.querySelector(href);
 
-        if (!target) return;
+        
+
+if (!target) return;
+
+        // if (!target) return;
 
         const targetRect = target.getBoundingClientRect();
 

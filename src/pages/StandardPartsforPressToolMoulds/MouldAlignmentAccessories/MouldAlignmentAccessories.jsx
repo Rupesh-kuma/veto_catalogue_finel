@@ -49,7 +49,7 @@ const MouldAlignmentAccessories = () => {
                 <div className="product-list my-0 p-3 product_list_main produ_list_hmain">
                     <div className="row row-cols-1 row-cols-3 g-2 mb-4">
                         <div className="col">
-                            <a className="card border-0 bg-transparent pdf-link" href="https://veto-india.com/wp-content/uploads/2026/04/Guide-Pillar.pdf">
+                            <a className="card border-0 bg-transparent pdf-link" data-page="2">
                                 <img src="../images/GuidePillars_main.webp" alt="Product 1" className="card-img-top" />
                                 <div className="card-body bg-white position-absolute  w-100" style={{ top: "93%" }}>
                                     <p className="card-title text-center text-dark mb-0">Guide Pillars</p>
@@ -57,7 +57,7 @@ const MouldAlignmentAccessories = () => {
                             </a>
                         </div>
                         <div className="col">
-                            <a className="card border-0 bg-transparent pdf-link" href="https://veto-india.com/wp-content/uploads/2026/04/Guide-Bush.pdf">
+                            <a className="card border-0 bg-transparent pdf-link" data-page="4">
                                 <img src="../images/GuideBushes_main.webp" alt="Tapped-End-Clamps" className="card-img-top" />
                                 <div className="card-body bg-white position-absolute  w-100" style={{ top: "93%" }}>
                                     <p className="card-title text-center text-dark mb-0">Guide Bushes</p>
@@ -76,7 +76,7 @@ const MouldAlignmentAccessories = () => {
                         </div> */}
 
                          <div className="col">
-                            <a className="card border-0 bg-transparent pdf-link" href="https://veto-india.com/wp-content/uploads/2026/04/Oilless-Bushes.pdf">
+                            <a className="card border-0 bg-transparent pdf-link" data-page="7">
                                 <img src="../images/OillessGuideBushes_main.webp" alt="Product 1" className="card-img-top" />
                                 <div className="card-body bg-white position-absolute  w-100" style={{ top: "93%" }}>
                                     <p className="card-title text-center text-dark mb-0">Oilless Guide Bushes</p>
@@ -84,7 +84,7 @@ const MouldAlignmentAccessories = () => {
                             </a>
                         </div>
                         <div className="col">
-                            <a className="card border-0 bg-transparent pdf-link" href="https://veto-india.com/wp-content/uploads/2026/04/Tapper-Inter-Lock.pdf">
+                            <a className="card border-0 bg-transparent pdf-link" data-page="16">
                                 <img src="../images/TapperInterLock_main.webp" alt="Product 1" className="card-img-top" />
                                 <div className="card-body bg-white position-absolute  w-100" style={{ top: "93%" }}>
                                     <p className="card-title text-center text-dark mb-0">Tapper Inter Lock</p>
@@ -92,7 +92,7 @@ const MouldAlignmentAccessories = () => {
                             </a>
                         </div>
                         <div className="col">
-                            <a className="card border-0 bg-transparent pdf-link" href="https://veto-india.com/wp-content/uploads/2026/04/Ball-Guide-Bush.pdf">
+                            <a className="card border-0 bg-transparent pdf-link" data-page="20">
                                 <img src="../images/ballcase_main.webp" alt="Product 1" className="card-img-top" />
                                 <div className="card-body bg-white position-absolute  w-100" style={{ top: "93%" }}>
                                     <p className="card-title text-center text-dark mb-0">Ball Cage Bush</p>

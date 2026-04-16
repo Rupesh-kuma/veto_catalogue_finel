@@ -138,7 +138,7 @@ const BushforPressureSleeve = () => {
                     </div> */}
                     {/* product 2 */}
                     <div className="product-block">
-                        <div className="section-title">Stop Button - Press Fit (VE10.1)</div>
+                        <div className="section-title">Stop Button - Press Fit (VSV - PF)</div>
                         <div className="row mt-2 g-1">
                             <div className="col-5">
                                 <img
@@ -158,22 +158,22 @@ const BushforPressureSleeve = () => {
                                 />
                             </div>
                             <div className="col-2">
-                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VE10.1</p>
-                                <p className="mb-0" style={{ fontSize: "13px" }}>Stop Button - Press Fit (VE10.1)</p>
+                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}>VSV - PF</p>
+                                <p className="mb-0" style={{ fontSize: "13px" }}>Stop Button - Press Fit (VSV - PF)</p>
                                 <p className="mb-0" style={{ fontSize: "13px" }}>Raw Material:S45C</p>
                                 <p style={{ fontSize: "13px" }} className="mb-0">Case Hardness: 46-50 HRC</p>
                             </div>
                         </div>
 
                         <p className="ordering-note mb-0" style={{ fontSize: "14px" }}>
-                            <strong> Ordering Example: Code Quantity | VE10.18 Pcs |
+                            <strong> Ordering Example: Code Quantity | VSV - PF |
                                 Min. order qty: 10 pcs</strong><br />
                         </p>
 
                     </div>
                     {/* product 3 */}
                     <div className="product-block">
-                        <div className="section-title">Stop Button - CSK Type( VE10.2)</div>
+                        <div className="section-title">Stop Button - CSK Type( VSV - CSK)</div>
                         <div className="row mt-2 g-1">
                             <div className="col-5">
                                 <img
@@ -193,8 +193,8 @@ const BushforPressureSleeve = () => {
                                 />
                             </div>
                             <div className="col-2">
-                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}> VE10.2</p>
-                                <p className="mb-0" style={{ fontSize: "13px" }}>Stop Button - CSK Type( VE10.2)</p>
+                                <p className="mb-0 fw-bold" style={{ fontSize: "13px" }}> VSV - CSK</p>
+                                <p className="mb-0" style={{ fontSize: "13px" }}>Stop Button - CSK Type( VSV - CSK)</p>
                                 <p className="mb-0" style={{ fontSize: "13px" }}>Raw Material: S45C</p>
                                 <p style={{ fontSize: "13px" }} className="mb-0">Hardness: 46-50 HRC</p>
                             </div>
@@ -215,7 +215,7 @@ const BushforPressureSleeve = () => {
                                     </div>
                                     <div className="table-body">
                                         <div className="table-row">
-                                            <span className="cell">VE10.2/ 001</span>
+                                            <span className="cell">VSV - CSK / 16</span>
                                             <span className="cell">16</span>
                                             <span className="cell">5.5</span>
                                             <span className="cell" />
@@ -223,7 +223,7 @@ const BushforPressureSleeve = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE10.2/ 002</span>
+                                            <span className="cell">VSV - CSK / 20</span>
                                             <span className="cell">20</span>
                                             <span className="cell">6.5</span>
                                             <span className="cell">5</span>
@@ -231,7 +231,7 @@ const BushforPressureSleeve = () => {
 
                                         </div>
                                         <div className="table-row">
-                                            <span className="cell">VE10.2/ 003</span>
+                                            <span className="cell">VSV - CSK / 25</span>
                                             <span className="cell">25</span>
                                             <span className="cell">8.5</span>
                                             <span className="cell" />
@@ -243,7 +243,7 @@ const BushforPressureSleeve = () => {
                             </div>
                         </div>
                         <p className="ordering-note mb-0" style={{ fontSize: "14px" }}>
-                            <strong> Ordering Example: Code Quantity | VE10.2/003-8 Pcs | Min. order qty: 10 pcs</strong><br />
+                            <strong> Ordering Example: Code Quantity | VSV - CSK / 003-8 Pcs | Min. order qty: 10 pcs</strong><br />
                         </p>
 
 
